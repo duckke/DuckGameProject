@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562436686951",
+    "project_id": "duckgame-16938",
+    "storage_bucket": "duckgame-16938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562436686951:android:6533bef16397c845ed40c2",
+        "android_client_info": {
+          "package_name": "com.duckgame.duckgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562436686951-ukfk823hekv074nv6obimklnm4qg902f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXv8U3r6XM__ws6-sMN0j8IcjQqgHdeVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562436686951-ukfk823hekv074nv6obimklnm4qg902f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
